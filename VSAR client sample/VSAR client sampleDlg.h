@@ -9,9 +9,9 @@
 #define _SLEEP_SECONDS		1
 #define _VSAR_TIMER			1
 
-#pragma comment(lib, "C:\\Program Files\\VSAR\\lib\\gLogger.lib")
-#pragma comment(lib, "C:\\Program Files\\VSAR\\lib\\gThreadpool.lib")
-#pragma comment(lib, "C:\\Program Files\\VSAR\\lib\\gVSAR.lib")
+#pragma comment(lib, "C:\\VSAR\\lib\\gLogger.lib")
+#pragma comment(lib, "C:\\VSAR\\lib\\gThreadpool.lib")
+#pragma comment(lib, "C:\\VSAR\\lib\\gVSAR.lib")
 
 // CVSARclientsampleDlg 대화 상자
 class CVSARclientsampleDlg : public CDialogEx
